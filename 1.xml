@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <first_name>John</first_name>
+    <last_name>Doe</last_name>
+    <group>CS101</group>
+    <grades>
+      <grade>85</grade>
+      <grade>92</grade>
+      <grade>78</grade>
+    </grades>
+  </student>
+  <student>
+    <first_name>Jane</first_name>
+    <last_name>Smith</last_name>
+    <group>CS101</group>
+    <grades>
+      <grade>90</grade>
+      <grade>87</grade>
+      <grade>93</grade>
+    </grades>
+  </student>
+  <student>
+    <first_name>Bob</first_name>
+    <last_name>Johnson</last_name>
+    <group>CS102</group>
+    <grades>
+      <grade>79</grade>
+      <grade>85</grade>
+      <grade>81</grade>
+    </grades>
+  </student>
+</students>

@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "group": "CS101",
+      "grades": [85, 92, 78]
+    },
+    {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "group": "CS101",
+      "grades": [90, 87, 93]
+    },
+    {
+      "first_name": "Bob",
+      "last_name": "Johnson",
+      "group": "CS102",
+      "grades": [79, 85, 81]
+    }
+  ]
+}
